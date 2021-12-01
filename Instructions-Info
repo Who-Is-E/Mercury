@@ -1,0 +1,4 @@
+Mercury is an open sourced game optimizer and anti-lag system, that can help reduce issues with bad devices, or bad performace.
+**NOTE: THIS WILL NOT MAGICALLY HELP YOUR GAME TO BE 100% PERFORMANT! You have to make sure you don't have access amounts of loops, and make sure your handling your game events correctly**
+
+- Drag the Folder that says "Mercury" into server script service, thats litterally it.
