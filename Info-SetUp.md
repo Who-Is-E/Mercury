@@ -1,4 +1,5 @@
 # Mercury
+**THIS PRODUCT IS NOT FINISHED**
 A simple roblox game optimizer, open sourced.
 
 Mercury is an open sourced game optimizer and anti-lag system, that can help reduce issues with bad devices, or bad performace.
